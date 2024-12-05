@@ -1,0 +1,47 @@
+.p1 {
+    text-indent: 30px; 
+    display: inline; 
+    background-color: #20fefe; 
+    padding: 5px 0;
+}
+
+.gray{
+    text-indent: 30px; 
+    background-color: #bebebe; 
+    padding: 1px 0;
+}
+
+.td3 {
+    text-align: right; 
+    color: #0000ff;
+    font-weight: 700;
+}
+
+#desc {
+    background-color: hsl(295, 91%, 55%); 
+    padding: 1px 0;
+    font-style: oblique; 
+    font-weight: 800; 
+    font-size: 30px;
+}
+
+#p21 {
+    text-indent: 30px; 
+    display: inline; 
+    background-color: #fffb00; 
+    padding: 1px 0;
+    text-decoration: underline;
+}
+
+#p22 {
+    text-indent: 30px; 
+    display: inline; 
+    background-color: #bebebe; 
+    padding: 1px 0;
+}
+
+#td5 {
+    text-align: center; 
+    letter-spacing: 0.2em;
+    font-weight: 600;
+}
